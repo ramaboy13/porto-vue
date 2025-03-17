@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "judul": "Website KajiFilm",
+      "gambar": "/img/kajifilm.png",
+      "deskripsi": "A website for reviewing films worldwide with movie review features and discussion forums. It will be built using Laravel 11.",
+      "url": "https://github.com/ramaboy13/kajifilm",
+      "teknologi": ["Laravel 11", "HTML", "CSS", "JavaScript"],
+      "deskripsi_lengkap": "Website KajiFilm adalah platform untuk mengulas film dari seluruh dunia. Platform ini dilengkapi dengan fitur peninjauan film dan forum diskusi untuk para pecinta film. Dibangun dengan framework Laravel 11, website ini menawarkan pengalaman yang responsif dan user-friendly.",
+      "tanggal_rilis": "2023-10-01",
+      "status": "Dalam Pengembangan",
+      "fitur_utama": ["Ulasan Film", "Forum Diskusi", "Pencarian Film"],
+      "kontributor": ["Rama Surya", "Ananda Putri"],
+      "screenshot": ["img/kajifilm1.png", "img/kajifilm2.png"]
+    },
+    {
+      "id": 2,
+      "judul": "Website Sadar Stunting",
+      "gambar": "/img/sadarstunting.png",
+      "deskripsi": "This website serves as a guide for parents on the importance of preventing stunting. It is built using Laravel 11.",
+      "url": "https://github.com/ramaboy13/sadar-stunting",
+      "teknologi": ["Laravel 11", "HTML", "CSS", "JavaScript"],
+      "deskripsi_lengkap": "Website Sadar Stunting merupakan panduan bagi orang tua tentang pentingnya pencegahan stunting pada anak. Website ini menyediakan informasi lengkap, tips, dan sumber daya untuk membantu orang tua memahami dan mencegah stunting. Dibangun dengan Laravel 11 untuk memberikan pengalaman pengguna yang optimal.",
+      "tanggal_rilis": "2023-09-15",
+      "status": "Selesai",
+      "fitur_utama": ["Panduan Pencegahan Stunting", "Tips Kesehatan", "Forum Diskusi"],
+      "kontributor": ["Rama Surya", "Dewi Lestari"],
+      "screenshot": ["img/sadarstunting1.png", "img/sadarstunting2.png"]
+    },
+    {
+      "id": 3,
+      "judul": "Dompetku",
+      "gambar": "/img/dompetku.png",
+      "deskripsi": "Website that simplifies your financial record-keeping with a range of built-in features. Built with Laravel Filament.",
+      "url": "http://www.baritosurya.my.id/",
+      "teknologi": ["Laravel Filament", "HTML", "CSS", "JavaScript"],
+      "deskripsi_lengkap": "Dompetku adalah aplikasi web yang menyederhanakan pencatatan keuangan Anda dengan berbagai fitur bawaan. Platform ini memungkinkan pengguna untuk melacak pengeluaran, pendapatan, dan mengelola anggaran mereka dengan antarmuka yang ramah pengguna. Dibangun dengan Laravel Filament untuk pengalaman administrasi yang kuat.",
+      "tanggal_rilis": "2023-08-20",
+      "status": "Selesai",
+      "fitur_utama": ["Pencatatan Keuangan", "Manajemen Anggaran", "Laporan Keuangan"],
+      "kontributor": ["Rama Surya"],
+      "screenshot": ["img/dompetku1.png", "img/dompetku2.png"]
+    }
+  ]
